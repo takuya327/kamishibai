@@ -1,0 +1,18 @@
+.ps-screen {
+  overflow: hidden;
+}
+
+.ps-content {  
+  padding: 0 20px; 
+  height: 100%;
+}
+
+.ps-scene {
+  color: #fff;
+  position: relative;
+  top: 50%;
+  margin: 0;
+  padding: 0;
+  display: block;
+  word-break: break-all;
+}
